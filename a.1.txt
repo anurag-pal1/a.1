@@ -1,0 +1,19 @@
+Ans:1 Computers understand binary languages only as they only know 0 and 1.0 is treated as low voltage and 1 is treated as high voltage.
+
+Ans:2 IDE stands for Integrated Development Environment.
+
+Ans:3 A text editor is comparable to a code editor; however, a code editor offers significantly more functionality. Text editors with sophisticated built-in capabilities and specific functionalities designed to ease and speed up the process of editing code are referred to as code editors.
+
+Ans:4 Steps to develope software in C language:-
+      1. Problem Definition.
+      2. Problem Analysis.
+      3. Algorithm Development.
+      4. Coding & Documentation.
+      5. Testing & Debugging.
+      6. Maintenance.
+
+Ans:5(a) C17
+     (b) Dennis Ritchie.
+     (c) System software is the interface between the application software and the computer's hardware. It manages the computer resources and enables the computer to function smoothly. On the other hand, the application software serves as an interface between the system software and the end user.
+
+     (d) To convert decimal number system into binary number system we have to divide the number by two and write the remainder in down to bottom approach.
